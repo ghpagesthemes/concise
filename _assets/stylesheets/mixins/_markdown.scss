@@ -88,8 +88,8 @@
       position: absolute;
       top: 0;
       left: 0;
-      font-size: $font-base-size + pr;
-      line-height: 1lh;
+      font-size: $type-1-primary;
+      line-height: 1.5lh;
       width: 100%;
       word-wrap: break-word;
     }
@@ -113,7 +113,7 @@
       position: absolute;
       top: 0;
       left: 0;
-      font-size: $font-base-size + pr;
+      font-size: $type-1-primary;
       line-height: 1lh;
     }
   }
@@ -127,7 +127,6 @@
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    // margin-top: $spacing-m;
     margin-bottom: 1lh;
   }
 }
