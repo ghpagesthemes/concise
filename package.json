@@ -5,7 +5,6 @@
     "postcss-media-minmax": "^2.1.2"
   },
   "dependencies": {
-    "concise.css": "git://github.com/concisecss/concise.css.git#master",
-    "svg4everybody": "^2.1.0"
+    "concise.css": "git://github.com/concisecss/concise.css.git#master"
   }
 }
